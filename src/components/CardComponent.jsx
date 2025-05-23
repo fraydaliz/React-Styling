@@ -11,7 +11,7 @@ export default function CardComponent() {
       <Card className="card">
         <Card.Body>
           <Card.Title>Mountain</Card.Title>
-            <Card.Img variant="top" src="image.png" />
+            <Card.Img variant="top" src="/image.png" />
           <Card.Text>
          serene landscapes
           </Card.Text>
